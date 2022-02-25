@@ -1,0 +1,25 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-indicators{
+    color: black;
+}
+.text-end{
+    color: gold;
+}
+.abc{
+    border-radius: 10px;
+}
+.card{
+    border: none;
+}
+.card img{
+    width: 80%;
+    position:center;
+}
+.card img{
+    width: 60%;
+}
